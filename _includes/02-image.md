@@ -1,1 +1,1 @@
-![Miming Smackdown](https://octodex.github.com/images/Luchadortocat.png)
+![Image of Miming](https://octodex.github.com/images/luchadortocat.png)
