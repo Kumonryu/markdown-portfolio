@@ -1,0 +1,3 @@
+**BOLD**
+_ITALIC_
+__BOLDITALIC__
